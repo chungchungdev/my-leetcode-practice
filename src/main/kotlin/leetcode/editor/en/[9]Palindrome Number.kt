@@ -1,3 +1,10 @@
+package com.chungchungdev.leetcode.editor.en
+
+fun main() {
+    val solution = PalindromeNumber.Solution()
+}
+
+class PalindromeNumber {
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     fun isPalindrome(x: Int): Boolean {
@@ -17,3 +24,5 @@ class Solution {
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
+    
+}

@@ -1,3 +1,10 @@
+package com.chungchungdev.leetcode.editor.en
+
+fun main() {
+    val solution = TwoSum.Solution()
+}
+
+class TwoSum {
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     fun twoSum(nums: IntArray, target: Int): IntArray {
@@ -12,3 +19,5 @@ class Solution {
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
+    
+}

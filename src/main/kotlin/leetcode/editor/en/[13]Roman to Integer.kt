@@ -1,3 +1,10 @@
+package com.chungchungdev.leetcode.editor.en
+
+fun main() {
+    val solution = RomanToInteger.Solution()
+}
+
+class RomanToInteger {
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     fun romanToInt(s: String): Int {
@@ -26,3 +33,5 @@ class Solution {
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
+    
+}

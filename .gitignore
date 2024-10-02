@@ -77,4 +77,4 @@ app/release/output.json
 .idea/codeStyles/
 
 # labuladong
-src/main/kotlin/leetcode/leetcode/editor/en/doc/**
+src/main/kotlin/leetcode/editor/en/doc/**
